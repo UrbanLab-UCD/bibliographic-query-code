@@ -1,0 +1,9 @@
+PyMuPDF==1.22.5          # for working with PDFs using 'fitz'
+nbformat                 # for working with Jupyter notebooks
+pandas                   # data handling
+spacy                    # NLP processing
+requests                 # HTTP requests
+PyPDF2                   # alternative PDF parsing
+pydrive                  # Google Drive integration
+plotly                   # interactive visualizations
+serpapi                  # for Google Scholar and other search engine queries
